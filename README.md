@@ -2,11 +2,10 @@
 Useful AI-powered websites 
 
 https://saner.ai/
-
 https://www.summarize.tech/
 
 [Productivity]
-https://turtle-projects.com/
+https://turtle-sitight.com/
 
 
 
