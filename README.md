@@ -1,7 +1,8 @@
 # ai_websites
 Useful AI-powered websites 
 
-https://saner.ai/
+https://saner.ai/ 
+
 https://www.summarize.tech/
 
 [Productivity]
